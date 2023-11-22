@@ -8,7 +8,7 @@ In this study, we investigated the relationship between viral shedding and clini
 
 ## Data
 
-The data used in this study is located in the `data` directory. It includes several CSV files that contain information on clinic visits, home visits, symptom scores, and demographic information. 
+The data includes several CSV files that contain information on clinic visits, home visits, symptom scores, and demographic information. 
 
 ## Script
 
