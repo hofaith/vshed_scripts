@@ -1,7 +1,6 @@
 # Influenza Virus Infection Study Data
 
-This repository contains the data and script used in a study on viral shedding and clinical illness in naturally acquired influenza virus infections. 
-https://pubmed.ncbi.nlm.nih.gov/20377412/
+This repository contains data and analysis code for the study titled "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published on PubMed. Link: https://pubmed.ncbi.nlm.nih.gov/20377412/
 
 ## Data
 
