@@ -10,7 +10,7 @@ In the data folder we have provided information on demographic characteristics (
   
 ## Script
 
-The script is written in R and includes various operations on the data, including defining lab-confirmed infection, defining acute respiratory illness (ARI), and determining ARI onset. The output includes a data frame on the 44 subjects analyzed in the study, including their ARI onset and q_culture results. The vshed_scripts directory has the following structure:
+The vshed_scripts as the following structure:
 
 - `JID_dataframe.r` creates a dataframe 'plotdata' used for further analysis and visualization of the transmission dynamics of respiratory viruses in households.
 - `Figure_1.r` generates patterns of viral shedding and symptoms and signs in naturally acquired influenza A and B virus infections by day relative to acute respiratory illness (ARI) onset (day 0).
