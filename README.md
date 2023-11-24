@@ -16,7 +16,7 @@ In this study, we highlights the importance of understanding viral shedding in i
 
 The script is written in R and includes various operations on the data, including defining lab-confirmed infection, defining acute respiratory illness (ARI), and determining ARI onset. The output includes a data frame on the 44 subjects analyzed in the study, including their ARI onset and q_culture results. The vshed_scripts directory has the following structure:
 
-- `JID_dataframe.r` contains an R script for handling the JID (Journal of Infectious Diseases) dataframe.
+- `JID_dataframe.r` creates a dataframe 'plotdata' used for further analysis and visualization of the transmission dynamics of respiratory viruses in households.
 - `Figure_1.r` generates patterns of viral shedding and symptoms and signs in naturally acquired influenza A and B virus infections by day relative to acute respiratory illness (ARI) onset (day 0).
 - `Figure_2.r` shows association between replicating (by median tissue culture infectious dose [TCID50]) and molecular (by reverse-transcription polymerase chain reaction) influenza A viral shedding by day since acute respiratory illness (ARI) onset for children (plus signs) and adults (circles).
 - `Table_1.r` shows the comparison of Characteristics of 59 Secondary Influenza Virus Infections with 76 Excluded Infections.
