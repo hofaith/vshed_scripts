@@ -11,16 +11,16 @@ The data includes several CSV files that contain information on clinic visits, h
 
 ## Script
 
-The script used to process and analyze the data is located in the `script` directory. The script is written in R and includes various operations on the data, including defining lab-confirmed infection, defining acute respiratory illness (ARI), and determining ARI onset. The output includes a data frame on the 44 subjects analyzed in the study, including their ARI onset and q_culture results. The vshed_scripts directory has the following structure:
+The script is written in R and includes various operations on the data, including defining lab-confirmed infection, defining acute respiratory illness (ARI), and determining ARI onset. The output includes a data frame on the 44 subjects analyzed in the study, including their ARI onset and q_culture results. The vshed_scripts directory has the following structure:
 
-- Appendix_Figure_1.r: This file contains an R script for generating Appendix Figure 1.
-- Appendix_Figure_2.r: This file contains an R script for generating Appendix Figure 2.
-- Appendix_Table_1.r: This file contains an R script for generating Appendix Table 1.
-- Figure_1.r: This file contains an R script for generating Figure 1.
-- Figure_2.r: This file contains an R script for generating Figure 2.
-- JID_dataframe.r: This file contains an R script for handling the JID (Journal of Infectious Diseases) dataframe.
-- Table_1.r: This file contains an R script for generating Table 1.
-- WinBUGS.zip: This file is a compressed archive containing WinBUGS software.
+- JID_dataframe.r contains an R script for handling the JID (Journal of Infectious Diseases) dataframe.
+- Appendix_Figure_1.r contains an R script for generating Appendix Figure 1.
+- Appendix_Figure_2.r contains an R script for generating Appendix Figure 2.
+- Appendix_Table_1.r contains an R script for generating Appendix Table 1.
+- Figure_1.r generates patterns of viral shedding and symptoms and signs in naturally acquired influenza A and B virus infections by day relative to acute respiratory illness (ARI) onset (day 0).
+- Figure_2.r shows association between replicating (by median tissue culture infectious dose [TCID50]) and molecular (by reverse-transcription polymerase chain reaction) influenza A viral shedding by day since acute respiratory illness (ARI) onset for children (plus signs) and adults (circles).
+- Table_1.r shows the comparison of Characteristics of 59 Secondary Influenza Virus Infections with 76 Excluded Infections.
+- WinBUGS.zip is a compressed archive containing WinBUGS software.
 
 ## Usage
 
