@@ -9,8 +9,8 @@
 # Last updated by Vicky Fang and Lincoln Lau
 # Jan 30, 2010
 
-#change to your dir
-dir <- "http://sph.hku.hk/data/HongKongNPIstudyV4/"
+
+dir <- "data/"
 
 hc <- read.csv(paste(dir, "home_pcr.csv", sep=""))                    
 baseflu <- read.csv(paste(dir, "adherence_m.csv", sep=""))      
