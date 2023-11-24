@@ -10,8 +10,8 @@
 # Jan 30, 2010
 
 
-dir <- "http://sph.hku.hk/data/HongKongNPIstudyV4/"
-source("http://www.hku.hk/bcowling/influenza/Vshed_scripts/JID_dataframe.r")
+dir <- "data/"
+source("Vshed_scripts/JID_dataframe.r")
 clinic <- read.csv(paste(dir, "clinicdat_h.csv", sep=""))
 
 tab1 <- matrix(rep(NA,28),ncol=4)
