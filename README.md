@@ -6,9 +6,12 @@ This repository contains data and analysis code for the study titled "Viral Shed
 In this study, we highlights the importance of understanding viral shedding in influenza infections. we provides valuable insights into the relationship between viral shedding and clinical illness, shedding light on the transmission dynamics and severity of influenza virus infections.
 
 ## Data
+ 
+- 'home_pcr.csv' contains  information about households followed up and their family members. It includes variables such as household ID (hhID), member ID, and visit information.
+- 'adherence_m.csv' provides information on adherence to preventive measures.
+- 'symptomday_d.csv' contains information about symptom onset and duration.
 
-The data includes several CSV files that contain information on clinic visits, home visits, symptom scores, and demographic information. 
-
+  
 ## Script
 
 The script is written in R and includes various operations on the data, including defining lab-confirmed infection, defining acute respiratory illness (ARI), and determining ARI onset. The output includes a data frame on the 44 subjects analyzed in the study, including their ARI onset and q_culture results. The vshed_scripts directory has the following structure:
