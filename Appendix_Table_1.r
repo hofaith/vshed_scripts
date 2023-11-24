@@ -9,8 +9,8 @@
 # Last updated by Vicky Fang and Lincoln Lau
 # Jan 30, 2010
 
-dir <- "http://sph.hku.hk/data/HongKongNPIstudyV4/"
-source("http://www.hku.hk/bcowling/influenza/Vshed_scripts/JID_dataframe.r")
+dir <- "data"
+source("Vshed_scripts/JID_dataframe.r")
 demog <- read.csv(paste(dir, "adherence_m.csv", sep=""))
 appt1 <- matrix(rep(NA,24),ncol=4)
 
