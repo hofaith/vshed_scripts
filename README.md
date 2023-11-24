@@ -3,7 +3,7 @@
 This repository contains data and analysis code for the study titled "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published in the _Journal of Infectious Diseases_ in 2010. Link: https://academic.oup.com/jid/article/201/10/1509/992720?login=true
 ## Overview
 
-In this study, we investigated the relationship between viral shedding and clinical illness in individuals with naturally acquired influenza virus infections. We aimed to understand the duration and pattern of viral shedding and its association with the severity of clinical symptoms.
+In this study, we highlights the importance of understanding viral shedding in influenza infections. we provides valuable insights into the relationship between viral shedding and clinical illness, shedding light on the transmission dynamics and severity of influenza virus infections.
 
 ## Data
 
