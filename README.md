@@ -6,11 +6,7 @@ This repository contains data and analysis code for the study titled "Viral Shed
 In this study, we highlights the importance of understanding viral shedding in influenza infections and provides valuable insights into the relationship between viral shedding and clinical illness, shedding light on the transmission dynamics and severity of influenza virus infections.
 
 ## Data
- 
-- `home_pcr.csv` contains  data about households followed up and their family members. 
-- `adherence_m.csv` provides information on adherence to preventive measures.
-- `symptomday_d.csv` contains information about symptom onset and duration.
-
+In the data folder we have provided information on demographic characteristics (age, sex, race/ethnicity), clinical symptoms (fever, cough, sore throat, etc.), laboratory results (viral shedding patterns, virus type/subtype), and other relevant variables. 
   
 ## Script
 
