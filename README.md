@@ -1,6 +1,6 @@
 # Influenza Virus Infection Study Data
 
-This repository contains data and analysis code for the study titled "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published in the _Journal of Infectious Diseases_ in 2010. Link: https://pubmed.ncbi.nlm.nih.gov/20377412/
+This repository contains data and analysis code for the study titled "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published in the _Journal of Infectious Diseases_ in 2010. Link: [https://pubmed.ncbi.nlm.nih.gov/20377412/](https://academic.oup.com/jid/article/201/10/1509/992720?login=true)
 
 ## Overview
 
