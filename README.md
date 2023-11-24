@@ -7,7 +7,7 @@ In this study, we highlights the importance of understanding viral shedding in i
 
 ## Data
  
-- `home_pcr.csv` contains  information about households followed up and their family members. It includes variables such as household ID (hhID), member ID, and visit information.
+- `home_pcr.csv` contains  data about households followed up and their family members. 
 - `adherence_m.csv` provides information on adherence to preventive measures.
 - `symptomday_d.csv` contains information about symptom onset and duration.
 
