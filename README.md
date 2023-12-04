@@ -9,6 +9,12 @@ In this study, we highlighted the importance of understanding viral shedding in 
 ## Data
 
 In the data folder, information on demographic characteristics (age, sex, race/ethnicity), clinical symptoms (fever, cough, sore throat, etc.), laboratory results (viral shedding patterns, virus type/subtype), and other relevant variables are provided. 
+
+1. hchar_h.csv: This dataset contains information on the household members who participated in the study, including their age, sex, and vaccination status.
+
+2. adherence_m.csv: This dataset contains information on the adherence of the study participants to the recommended influenza prevention measures.
+
+3. clinicdat_h.csv: This dataset contains information on the clinical symptoms and outcomes of the study participants, including the dates of symptom onset, laboratory test results, and hospitalization status.
   
 ## Scripts
 
