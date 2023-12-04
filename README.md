@@ -20,7 +20,7 @@ The vshed_scripts as the following structure:
 - `Table_1.r` shows the comparison of characteristics of 59 secondary influenza virus infections with 76 excluded infections.
 - `WinBUGS.zip` includes the code and instruction to reproduce Figure 3, which shows the association between replicating and molecular influenza B viral shedding by day since acute respiratory illness (ARI) onset for children (plus signs) and adults (circles). Linear regression lines are plotted where there are ⩾3 points. 
 - `Appendix_Figure_1.r` creates a plot comparing viral load in nasopharyngeal turbinate swabs (NTS) with quantitative culture.
-- `Appendix_Figure_2.r` creates a plot of viral load in nasopharyngeal turbinate swabs (NTS) against body temperature for subjects infected with Influenza A virus.
+- `Appendix_Figure_2.r` creates a plot of viral load in NTS against body temperature for subjects infected with Influenza A virus.
 - `Appendix_Table_1.r` contains an R script to analyze data related to appointment attendance in a study.
 
 ## Usage
