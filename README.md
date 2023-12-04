@@ -16,7 +16,7 @@ The vshed_scripts as the following structure:
 
 - `JID_dataframe.r` creates a dataframe 'plotdata' used for further analysis and visualization of the transmission dynamics of respiratory viruses in households.
 - `Figure_1.r` generates patterns of viral shedding and symptoms and signs in naturally acquired influenza A and B virus infections by day relative to acute respiratory illness (ARI) onset (day 0).
-- `Figure_2.r` shows association between replicating (by median tissue culture infectious dose [TCID50]) and molecular (by reverse-transcription polymerase chain reaction) influenza A viral shedding by day since acute respiratory illness (ARI) onset for children (plus signs) and adults (circles).
+- `Figure_2.r` shows association between replicating (by median tissue culture infectious dose [TCID50]) and molecular (by reverse-transcription polymerase chain reaction) influenza A viral shedding by day since ARI onset for children (plus signs) and adults (circles).
 - `Table_1.r` shows the comparison of characteristics of 59 secondary influenza virus infections with 76 excluded infections.
 - `WinBUGS.zip` includes the code and instruction to reproduce Figure 3, which shows the association between replicating and molecular influenza B viral shedding by day since ARI onset for children (plus signs) and adults (circles). Linear regression lines are plotted where there are ⩾3 points. 
 - `Appendix_Figure_1.r` creates a plot comparing viral load in nasopharyngeal turbinate swabs (NTS) with quantitative culture.
