@@ -14,7 +14,7 @@ In the data folder we have provided three datasets:
 
 - `adherence_m.csv` contains information on the adherence of the study participants to the recommended influenza prevention measures.
 
-- `clinicdat_h.csv` contains information on the clinical symptoms and outcomes of the study participants, including the dates of symptom onset, laboratory test results, and hospitalization status.
+- `clinicdat_h.csv` includes information on the clinical symptoms and outcomes of the study participants, including the dates of symptom onset, laboratory test results, and hospitalization status.
   
 ## Scripts
 
