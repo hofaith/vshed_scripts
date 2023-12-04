@@ -10,7 +10,7 @@ In this study, we highlighted the importance of understanding viral shedding in 
 
 In the data folder, information on demographic characteristics (age, sex, race/ethnicity), clinical symptoms (fever, cough, sore throat, etc.), laboratory results (viral shedding patterns, virus type/subtype), and other relevant variables are provided. 
   
-## Script
+## Scripts
 
 The vshed_scripts as the following structure:
 
