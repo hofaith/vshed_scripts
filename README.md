@@ -10,11 +10,11 @@ In this study, we highlighted the importance of understanding viral shedding in 
 
 In the data folder we have provided three datasets:
 
-- `hchar_h.csv`  contains information on the household members who participated in the study, including their age, sex, and vaccination status.
+- `hchar_h.csv`  contains information on the household members who participated in the study, including their intervention type, family size, house size, clinic date and vaccination status.
 
 - `adherence_m.csv` contains information on the adherence of the study participants to the recommended influenza prevention measures.
 
-- `clinicdat_h.csv` includes information on the clinical symptoms and outcomes of the study participants, including the dates of symptom onset, laboratory test results, and hospitalization status.
+- `clinicdat_h.csv` includes information on clinical symptoms, outcomes, and additional variables of the study participants.
   
 ## Scripts
 
