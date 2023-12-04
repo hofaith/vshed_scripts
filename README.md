@@ -4,7 +4,7 @@ Codes for generating results in the paper "Viral Shedding and Clinical Illness i
 
 ## Overview
 
-In this study, we highlight the importance of understanding viral shedding in influenza infections and provides valuable insights into the relationship between viral shedding and clinical illness, shedding light on the transmission dynamics and severity of influenza virus infections.
+In this study, we highlight the importance of understanding viral shedding in influenza infections and provide valuable insights into the relationship between viral shedding and clinical illness, shedding light on the transmission dynamics and severity of influenza virus infections.
 
 ## Data
 
