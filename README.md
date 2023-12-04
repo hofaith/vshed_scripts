@@ -8,7 +8,7 @@ In this study, we highlighted the importance of understanding viral shedding in 
 
 ## Data
 
-In the data folder we have provided information on demographic characteristics (age, sex, race/ethnicity), clinical symptoms (fever, cough, sore throat, etc.), laboratory results (viral shedding patterns, virus type/subtype), and other relevant variables. 
+In the data folder, information on demographic characteristics (age, sex, race/ethnicity), clinical symptoms (fever, cough, sore throat, etc.), laboratory results (viral shedding patterns, virus type/subtype), and other relevant variables are provided. 
   
 ## Script
 
