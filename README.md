@@ -1,24 +1,27 @@
-# Viral Shedding in Influenza Virus Infections Study Data
+# Data for the published paper "Viral shedding and clinical illness in naturally acquired influenza virus infections"
 
-Codes for generating results in the paper "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published in the Journal of Infectious Diseases in 2010. Link: https://academic.oup.com/jid/article/201/10/1509/992720?login=true
+Codes for generating results in the paper "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published in the Journal of Infectious Diseases in 2010. 
+PubMed link: https://pubmed.ncbi.nlm.nih.gov/20377412/
+PubMed Central full text link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3060408/
+Publisher full text link: https://academic.oup.com/jid/article/201/10/1509/992720
 
 ## Overview
 
-In this study, we highlighted the importance of understanding viral shedding in influenza infections and provided valuable insights into the relationship between viral shedding and clinical illness, shedding light on the transmission dynamics and severity of influenza virus infections.
+In this study, we highlighted the importance of understanding viral shedding in influenza infections and estimated the relationship between viral shedding and clinical illness, shedding light on the transmission dynamics and severity of influenza virus infections.
 
 ## Data
 
-In the data folder we have provided three datasets:
+In the data folder we have provided three datasets which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member"):
 
-- `hchar_h.csv`  contains information on the household members who participated in the study, including their intervention type, family size, house size, clinic date and vaccination status.
+- `hchar_h.csv`  contains information on the households who participated in the study, including their intervention type, family size, house size, clinic date and vaccination status. This dataset provides information at the household level.
 
-- `adherence_m.csv` contains information on the adherence of the study participants to the recommended influenza prevention measures.
+- `adherence_m.csv` contains information on the adherence of the study participants to the recommended influenza prevention measures. This dataset provides information at the individual level.
 
-- `clinicdat_h.csv` includes information on clinical symptoms, outcomes, and additional variables of the study participants.
+- `clinicdat_h.csv` includes information on clinical symptoms, outcomes, and additional variables of the study participants. This dataset provides information at the individual level.
   
 ## Scripts
 
-The vshed_scripts as the following structure:
+The vshed_scripts are organized in the following way:
 
 - `JID_dataframe.r` creates a dataframe used for further analysis and visualization of the transmission dynamics of respiratory viruses in households.
 - `Figure_1.r` generates Figure 1 showing patterns of viral shedding and symptoms and signs in naturally acquired influenza A and B virus infections by day relative to acute respiratory illness (ARI) onset (day 0).
@@ -31,7 +34,7 @@ The vshed_scripts as the following structure:
 
 ## Usage
 
-To use this data and analysis code, follow these steps:
+To use this dataset and analysis code, follow these steps:
 
 1. Clone or download this repository to your local machine.
 2. Install R and RStudio or any other R environment if you haven't already.
