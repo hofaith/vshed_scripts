@@ -1,6 +1,7 @@
 # Data for the published paper "Viral shedding and clinical illness in naturally acquired influenza virus infections"
 
-Codes for generating results in the paper "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published in the Journal of Infectious Diseases in 2010.  
+Codes for generating results in the paper "Viral Shedding and Clinical Illness in Naturally Acquired Influenza Virus Infections" published in the Journal of Infectious Diseases in 2010.
+
 PubMed link: https://pubmed.ncbi.nlm.nih.gov/20377412/  
 PubMed Central full text link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3060408/  
 Publisher full text link: https://academic.oup.com/jid/article/201/10/1509/992720  
