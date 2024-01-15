@@ -22,7 +22,7 @@ In the data folder we have provided three datasets which can be linked by the un
   
 ## Scripts
 
-The vshed_scripts are organized in the following way:
+In the code folder we provide the R files as follows:
 
 - `JID_dataframe.r` creates a dataframe used for further analysis and visualization of the transmission dynamics of respiratory viruses in households.
 - `Figure_1.r` generates Figure 1 showing patterns of viral shedding and symptoms and signs in naturally acquired influenza A and B virus infections by day relative to acute respiratory illness (ARI) onset (day 0).
